@@ -4,7 +4,7 @@
 <p> This repository contains 900+ Articles on the study of algorithmic processes, computational machines and computation itself.</p>
 
 </br>
-<img src="http://howto-solution.com/wp-content/uploads/2020/07/programmer-working-on-laptop.jpg" alt="Girl in a jacket">
+<img src="https://github.com/manjunath5496/566-CS-Articles/blob/master/im.jpg" alt="Girl in a jacket">
 </br>
 
 
