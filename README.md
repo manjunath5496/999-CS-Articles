@@ -4,6 +4,12 @@
 <p> This repository contains 900+ Articles on the study of algorithmic processes, computational machines and computation itself.</p>
 
 </br>
+<img src="http://howto-solution.com/wp-content/uploads/2020/07/programmer-working-on-laptop.jpg" alt="Girl in a jacket">
+</br>
+
+
+
+
 <h3>Computing</h3>
 <ul>
 <li>"I do not fear computers. I fear lack of them."<br /><em>&mdash; Isaac Asimov<br />&nbsp;</em></li>
